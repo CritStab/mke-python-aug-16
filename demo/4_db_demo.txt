@@ -1,0 +1,4 @@
+# TODO: Database window
+Open the Databases window
+Add a SQLLite connection to the 4_sql_db.sqllite file
+A new window should open to allow you to write queries against the database.
